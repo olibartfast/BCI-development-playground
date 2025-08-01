@@ -15,7 +15,7 @@ A curated list of learning resources, tools, datasets, and ideas to explore the 
 ### 2. Core Technical Skills
 - **Linear Algebra:** [3Bluw1Brown Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - **Digital Signal Processing (DSP):** [DSP Illustrated](https://dspillustrations.com/) or [Coursera (EPFL)](https://www.coursera.org/specializations/digital-signal-processing)
-- **Python for Data Science:** [FreeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8) or [Python for Everybody (UMich)](https://www.coursera.org/specializations/python-for-everybody)
+- **Python for Data Science:** [FreeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)
 
 ---
 
