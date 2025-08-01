@@ -56,7 +56,7 @@ An overview of the hardware, companies, and communities driving the field forwar
 - **Consumer/Prosumer Headsets:** Affordable options for entry-level experimentation:
     - **[Unicorn Brain Interface](https://www.unicorn-bi.com/):** A low-cost, 8-channel EEG headset ideal for beginners, with easy integration via BrainFlow.
     - **[Muse (InteraXon)](https://choosemuse.com/):** A consumer-grade EEG headband focused on meditation, with an SDK for custom BCI apps.
-    - **[Emotiv](https://www.emotiv.com/):** Sells wireless headsets like the EPOC+ (14 channels), popular for research and emotion detection features.
+    - **[Emotiv](https://www.emotiv.com/):** Offers wireless EEG headsets (EPOC+ with 14 channels, EPOC X with 14/32 channels) that bridge consumer and research applications. Features both raw EEG access and pre-processed performance metrics (attention, stress, engagement). Includes EmotivBCI software for no-code development, comprehensive SDKs compatible with BrainFlow, and an active developer community. Ideal for learners wanting to experiment with motor imagery, P300, and emotion detection paradigms.
     - **NextMind (acquired by Snap):** A non-invasive, SSVEP-based visual BCI sensor. While the product is no longer sold publicly, its technology represents a key area of consumer BCI development.
 
 ### 2. Companies & Startups
