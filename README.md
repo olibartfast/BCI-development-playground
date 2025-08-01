@@ -81,7 +81,7 @@ A curated list of learning resources, tools, datasets, and ideas to explore the 
 - [Kernel](https://www.kernel.com/)
 - [Paradromics](https://paradromics.com/)
 - [Blackrock Neurotech](https://blackrockneurotech.com/)
-- [CTRL-labs (Meta)](https://tech.fb.com/ar-vr/portal-rebrand-meta-quest-2-active-pack/)
+- [CTRL-labs (Meta)](https://www.meta.com/en-gb/blog/reality-labs-surface-emg-research-nature-publication-ar-glasses-orion/)
 
 ---
 
