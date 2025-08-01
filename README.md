@@ -1,6 +1,6 @@
 # BCI-Development-Playground
 
-A curated list of resources for learning, developing, and exploring the field of Brain-Computer Interfaces.
+List of resources for learning, developing, and exploring the field of Brain-Computer Interfaces.
 
 ##  Foundational Knowledge
 ### 1. Core Neuroscience & BCI Theory
