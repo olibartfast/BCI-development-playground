@@ -36,7 +36,6 @@ A curated list of learning resources, tools, datasets, and ideas to explore the 
 - [Braindecode](https://braindecode.org/)
 - [DN3](https://dn3.readthedocs.io/)
 - [OpenViBE](http://openvibe.inria.fr/)
-- [BCI2VR](https://github.com/NeuroTechX/bci2vr)
 - [LabStreamingLayer (LSL)](https://github.com/sccn/labstreaminglayer)
 
 ### 2. Public Datasets
