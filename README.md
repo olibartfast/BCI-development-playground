@@ -4,6 +4,7 @@ List of resources for learning, developing, and exploring the field of Brain-Com
 
 ##  Foundational Knowledge
 ### 1. Core Neuroscience & BCI Theory
+- **[Neuroscience and Neuroimaging Specialization](https://www.coursera.org/specializations/computational-neuroscience)**: Familiarize yourself with fundamental concepts in neuroscience, like Functional Magnetic Resonance Imaging (fMRI), neurohacking (in R), and neuroimaging.
 - **[Medical Neuroscience (Duke University)](https://www.coursera.org/learn/medical-neuroscience):** A comprehensive course on the functional organization and neurophysiology of the human central nervous system and the biological basis of BCI.
 - **[Computational Neuroscience (University of Pennsylvania)](https://www.coursera.org/learn/computational-neuroscience):** Bridges biology and computation by teaching how to model neurons and networks. The "how" we can mathematically describe neural activity.
 - **[The Mind and the Machine (University of Colorado)](https://www.coursera.org/specializations/mind-machine):** Directly addresses BCI applications, signal processing for neural data (like EEG), and the practical aspects of creating a BCI. The "what" we build with this knowledge.
