@@ -100,7 +100,7 @@ A curated list of learning resources, tools, datasets, and ideas to explore the 
 - *Hybrid BCI Systems: Advances and Open Challenges*, Frontiers in Neuroscience, 2024
 
 ### Talks & Videos
-- [Mary Lou Jepsen (TED): Using Light to Read the Brain](https://www.youtube.com/watch?v=2w2_n_6aO6Q)
+- [Mary Lou Jepsen (TED): Using Light to Read the Brain](https://www.ted.com/talks/mary_lou_jepsen_how_we_can_use_light_to_see_deep_inside_our_bodies_and_brains)
 
 ---
 
