@@ -64,8 +64,6 @@ A curated list of learning resources, tools, datasets, and ideas to explore the 
 - [Muse (InteraXon)](https://choosemuse.com/)
 - [Emotiv EPOC/X](https://www.emotiv.com/)
 
-> Note: NextMind has been discontinued for public use.
-
 ---
 
 ## The BCI Ecosystem
