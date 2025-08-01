@@ -29,7 +29,7 @@ This section contains the tools and data you need to start building.
 
 ### 1. Software & Libraries
 - **[MNE-Python](https://mne.tools/stable/index.html):** The essential open-source Python package for offline analysis and visualization of neurophysiological data (EEG, MEG, ECoG).
-- **[BrainFlow](https://brainflow.org/):** A fantastic, user-friendly library for acquiring data from a wide variety of EEG headsets in real-time.
+- **[BrainFlow](https://brainflow.org/):** User-friendly library for acquiring data from a wide variety of EEG headsets in real-time.
 - **[PyBCI](https://pybci.com/):** A high-level Python library designed for rapid prototyping of BCIs with real-time data streams.
 - **[OpenViBE](http://openvibe.inria.fr/):** A popular open-source software platform for designing and testing BCIs with a graphical, no-code-required interface.
 
@@ -42,7 +42,7 @@ This section contains the tools and data you need to start building.
 - **Motor Imagery BCI:** The "Hello, World!" of BCI. A project to classify whether a user is imagining left or right-hand movement from EEG data.
   - ***Tutorial tip:*** *Use MOABB to easily download datasets and MNE-Python to build the classification pipeline.*
 - **P300 Speller:** Build a simple speller based on the P300 event-related potential.
-  - ***Tutorial tip:*** *This is a great paradigm for a real-time app using a headset compatible with BrainFlow.*
+  - ***Tutorial tip:*** *This is a paradigm for a real-time app using a headset compatible with BrainFlow.*
 - **SSVEP Controller:** A project where looking at flickering lights at different frequencies can be used to issue commands or control a cursor.
   - ***Tutorial tip:*** *Try prototyping this quickly with OpenViBE's graphical designer before writing any code.*
 
@@ -82,5 +82,5 @@ An overview of the hardware, companies, and communities driving the field forwar
 - **[Vidal, 1973 - "Toward direct brain-computer communication"](https://ieeexplore.ieee.org/document/1705768):** The paper widely credited with coining the term "Brain-Computer Interface" and laying out the initial vision.
 - **[Farwell & Donchin, 1988 - "Talking off the top of your head"](https://www.sciencedirect.com/science/article/abs/pii/0013469488901496):** The groundbreaking paper that introduced the P300 speller.
 
-### Inspiring Talks
+### Talks
 - **[Mary Lou Jepsen: How we can use light to see deep inside our bodies and brains](https://www.youtube.com/watch?v=2w2_n_6aO6Q):** A TED talk on the future of non-invasive, high-resolution optical imaging for brain activity.
