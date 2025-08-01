@@ -30,13 +30,13 @@ This section contains the tools and data you need to start building.
 ### 1. Software & Libraries
 - **[MNE-Python](https://mne.tools/stable/index.html):** The essential open-source Python package for offline analysis and visualization of neurophysiological data (EEG, MEG, ECoG).
 - **[BrainFlow](https://brainflow.org/):** User-friendly library for acquiring data from a wide variety of EEG headsets in real-time.
-- **[PyBCI](https://pybci.com/):** A high-level Python library designed for rapid prototyping of BCIs with real-time data streams.
+- **[PyBCI](https://github.com/LMBooth/pybci):** A high-level Python library designed for rapid prototyping of BCIs with real-time data streams.
 - **[OpenViBE](http://openvibe.inria.fr/):** A popular open-source software platform for designing and testing BCIs with a graphical, no-code-required interface.
 
 ### 2. Public Datasets
-- **[MOABB (Mother of all BCI Benchmarks)](https://neurotechx.github.io/moabb/):** A Python framework that provides easy access to dozens of BCI datasets (Motor Imagery, SSVEP, P300) and tools for benchmarking algorithms.
+- **[MOABB (Mother of all BCI Benchmarks)](https://moabb.neurotechx.com/docs/index.html):** A Python framework that provides easy access to dozens of BCI datasets (Motor Imagery, SSVEP, P300) and tools for benchmarking algorithms.
 - **[PhysioNet](https://physionet.org/):** A massive repository of physiological signals and medical data, including many EEG datasets for BCI experiments.
-- **[BCI Competition Datasets](http://www.bbci.de/competition/):** Classic datasets from past BCI competitions, often used as benchmarks in academic papers.
+- **[BCI Competition Datasets](http://www.bbci.de/competition/):** Old classic datasets from past BCI competitions, often used as benchmarks in academic papers.
 
 ### 3. Beginner Project Ideas
 - **Motor Imagery BCI:** The "Hello, World!" of BCI. A project to classify whether a user is imagining left or right-hand movement from EEG data.
