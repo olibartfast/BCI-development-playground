@@ -1,6 +1,3 @@
-Here is the complete `README.md` in GitHub-flavored Markdown, including the new **Feedback and Suggestions** section. It's ready to be dropped into a repository:
-
-```markdown
 # BCI-Development-Playground
 
 A curated list of learning resources, tools, datasets, and ideas to explore the world of Brain-Computer Interfaces (BCIs) — from foundational neuroscience to state-of-the-art deep learning models.
