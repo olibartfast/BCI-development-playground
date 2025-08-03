@@ -10,7 +10,7 @@ A curated list of learning resources, tools, datasets, and ideas to explore the 
 - [Neuroscience and Neuroimaging (Johns Hopkins)](https://www.coursera.org/specializations/computational-neuroscience)
 - [Medical Neuroscience (Duke)](https://www.coursera.org/learn/medical-neuroscience)
 - [Computational Neuroscience (UPenn)](https://www.coursera.org/learn/computational-neuroscience)
-- [The Mind and the Machine (Colorado)](https://www.coursera.org/specializations/mind-machine)
+
 
 ### 2. Core Technical Skills
 - **Linear Algebra:** [3Bluw1Brown Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
